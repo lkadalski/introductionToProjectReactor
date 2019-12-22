@@ -33,7 +33,7 @@ public class ProductService {
         List<Product> products = new ArrayList<>();
         int x = 0;
         while (x<i){
-            products.add(new Product(x, "com.bisnode.Product"+x, (x*x+2)/6));
+            products.add(new Product(x, "com.lkadalski.Product"+x, (x*x+2)/6));
             x++;
         }
         return products;

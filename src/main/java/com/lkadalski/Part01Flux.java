@@ -16,7 +16,7 @@ import java.util.Arrays;
 public class Part01Flux {
 //
 //    public static void main(String[] args) {
-//        com.bisnode.Part01Flux part01Flux  = new com.bisnode.Part01Flux();
+//        com.lkadalski.Part01Flux part01Flux  = new com.lkadalski.Part01Flux();
 //        part01Flux.emptyFlux().subscribe();
 //        part01Flux.fooBarFluxFromValues().subscribe();
 //        part01Flux.fooBarFluxFromList().subscribe();
