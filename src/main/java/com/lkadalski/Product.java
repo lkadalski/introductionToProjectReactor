@@ -1,4 +1,4 @@
-package com.bisnode;
+package com.lkadalski;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

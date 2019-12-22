@@ -1,4 +1,4 @@
-package com.bisnode;
+package com.lkadalski;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

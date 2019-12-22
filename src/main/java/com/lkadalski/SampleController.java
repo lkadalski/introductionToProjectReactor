@@ -1,4 +1,4 @@
-package com.bisnode;
+package com.lkadalski;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

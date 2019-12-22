@@ -1,4 +1,4 @@
-package com.bisnode;
+package com.lkadalski;
 
 import reactor.core.publisher.Flux;
 

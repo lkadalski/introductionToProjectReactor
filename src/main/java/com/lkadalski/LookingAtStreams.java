@@ -1,4 +1,4 @@
-package com.bisnode;
+package com.lkadalski;
 
 //
 //public class LookingAtStreams {
